@@ -1,1 +1,2 @@
-FLASK_APP=tendies.py
+FLASK_APP=microblog.py
+FLASK_ENV=development
