@@ -16,7 +16,7 @@
             {% else %}
             <li>
                 <a href="{{ url_for('messages') }}">
-                    {{ ('Messages') }}
+                    {{ _('Messages') }}
                 </a>
             </li>
             <a href="{{ url_for('user', username=current_user.username) }}">Profile</a>

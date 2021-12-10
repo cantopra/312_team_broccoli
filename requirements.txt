@@ -1,0 +1,10 @@
+flask
+email_validator
+app
+wtforms
+flask_wtf
+flask_login
+flask_migrate
+flask_sqlalchemy
+datetime
+flask_babel
